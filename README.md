@@ -1,4 +1,4 @@
-# README généré par Guillaume & ChatGPT (surtout chatGPT)
+# README généré par Guillaume & ChatGPT
 
 Ce projet consiste à reprendre un code existant et à créer une logique JavaScript à l'intérieur. Le fichier principal à exécuter est `newIndex.html`. 
 
