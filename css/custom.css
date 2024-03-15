@@ -1,0 +1,171 @@
+@import 'framework.css';
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+#logo {
+    width: 80px;
+}
+
+#design {
+    margin-bottom: -5px;
+}
+
+header {
+    background-color: var(--theme1);
+    color: var(--light);
+}
+
+header a {
+    color: var(--light);
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 4rem;
+    color: var(--theme2);
+}
+main {
+    min-height: 60vh;
+}
+.overlay {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    color: var(--light);
+    transition: opacity 300ms;
+    text-decoration: none;
+}
+
+.overlay i {
+    font-size: 2rem;
+    opacity: 0.5;
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+
+.label {
+    background-color: var(--theme2);
+    padding: 0.2rem 1rem;
+    border-radius: 16px;
+    font-size: 14px;
+    color: white;
+    top: 1rem;
+    right: 1rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.design {
+    min-height: 20vh;
+    background-image: url('../images/bg.svg');
+    background-size: cover;
+}
+
+
+article img {
+    display: block;
+    width: 100%;
+    aspect-ratio:  16 / 9;
+    object-fit: cover;
+}
+
+article h2 a {
+    text-decoration: none;
+}
+
+article a {
+    font-weight: bold;
+}
+
+article i {
+    color: var(--theme3);
+}
+
+article i:first-child {
+    color: white;
+    ;
+}
+
+.sm a {
+    text-decoration: none;
+}
+
+
+
+header input,
+header label {
+    margin: 0 0 0.5rem;
+}
+
+header input {
+    border: 0;
+    width: 40%;
+    padding: 0.5rem 1rem;
+    transition: all 500ms;
+}
+
+header input[type="checkbox"] {
+    width: auto;
+}
+
+header input:focus {
+    outline: none;
+    width: 100%;
+    padding: 1rem;
+}
+header input[type="checkbox"]:focus {
+    width: auto;
+}
+
+main input,
+main label {
+    margin: 0 0 1rem;
+}
+
+main input {
+    width: 100%;
+    border: 1px solid var(--theme3);
+    border-radius: 5px;
+    padding: 1rem 1rem;
+    transition: all 500ms;
+}
+
+
+main input:focus {
+    outline: 2px solid var(--theme3);
+    width: 100%;
+    padding: 1rem;
+}
+
+.main-register {
+    display: flex;
+}
+
+.register {
+    flex: 1 1 1320px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.register__left {
+    background-image: url('../images/street.jpg');
+    background-size: cover;
+    background-position: center;
+    flex: 1 1 450px;
+    min-height: 400px;
+}
+
+.register__right {
+    flex: 1 1 450px;
+}
+.register__form {
+    max-width: 400px;
+    margin: 0 auto;
+}

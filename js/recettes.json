@@ -1,0 +1,122 @@
+[
+  {
+    "id": "recipe-01",
+    "title": "Burger Classique",
+    "difficulty": 2,
+    "category": "Burger",
+    "description": "Un burger savoureux avec une touche classique. Ingrédients frais et un steak juteux pour une expérience culinaire inoubliable.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,hamburger",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-02",
+    "title": "Tacos Festifs",
+    "difficulty": 3,
+    "category": "Tacos",
+    "description": "Des tacos colorés et pleins de saveurs, avec une garniture riche et une sauce épicée maison.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,tacos",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-03",
+    "title": "Pizza Margherita",
+    "difficulty": 2,
+    "category": "Pizza",
+    "description": "Une pizza simple mais élégante, avec de la mozzarella fraîche, des tomates et du basilic.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,pizza",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-04",
+    "title": "Pâtes Carbonara",
+    "difficulty": 3,
+    "category": "Pasta,Carbonara",
+    "description": "Un plat classique italien avec des pâtes, une sauce crémeuse au fromage, des lardons et du poivre noir.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,carbonara",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-05",
+    "title": "Salade César",
+    "difficulty": 1,
+    "category": "Caesar,Salad",
+    "description": "Une salade légère et croquante avec des morceaux de poulet grillé, des croûtons et une vinaigrette César.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,salad,caesar",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-06",
+    "title": "Poulet Frit",
+    "difficulty": 4,
+    "category": "Fries,Chicken",
+    "description": "Un poulet frais avec une sauce riche et une mélange de saveurs.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,fried,chicken",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-07",
+    "title": "Soupe de Tomate",
+    "difficulty": 1,
+    "category": "Tomato,Soup",
+    "description": "Une soupe de tomate onctueuse et réconfortante, parfaite pour les soirées froides.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,soup",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-08",
+    "title": "Sushis",
+    "difficulty": 4,
+    "category": "Sushis",
+    "description": "Des sushis frais avec une sauce riche et un mélange de saveurs.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,sushi",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-09",
+    "title": "Crêpes au Chocolat",
+    "difficulty": 2,
+    "category": "Pancakes",
+    "description": "Des crêpes douces et moelleuses avec une garniture riche en chocolat et des fruits frais.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,pancakes",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-10",
+    "title": "Glace au Chocolat",
+    "difficulty": 3,
+    "category": "Chocolate",
+    "description": "Un fondant riche et leger, avec une crème au chocolat et une mélange de fruits frais.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,icecream, chocolate",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-11",
+    "title": "Tiramisu",
+    "difficulty": 4,
+    "category": "Dessert",
+    "description": "Un tiramisu au fromage frais, avec une crème au mascarpone et des mélanges de sucre et de fraïcheur.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,cake",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  },
+  {
+    "id": "recipe-12",
+    "title": "Tarte au Citron",
+    "difficulty": 2,
+    "category": "Lemon-Pie",
+    "description": "Une tarte au citron avec une crème au citron, une mélange de sucre et de fraïcheur.",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meal,cake, lemon",
+    "date": "2024-02-22",
+    "author": "john Doe"
+  }
+]
