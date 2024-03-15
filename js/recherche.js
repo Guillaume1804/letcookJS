@@ -1,10 +1,6 @@
 const searchBar = document.getElementById("searchBar");
 
-async function search(div) {
-    const response = await fetch("./js/recettes.json"); 
-    const responseJSON = await response.json();
-
-    console.log(responseJSON)
+async function recherche(div, responseJSON) {
 
     searchBar.addEventListener("input", function(event) {
         const value = event.target.value.toLowerCase();
@@ -70,4 +66,4 @@ async function search(div) {
     });
 }
 
-export default search;
+export default recherche;
